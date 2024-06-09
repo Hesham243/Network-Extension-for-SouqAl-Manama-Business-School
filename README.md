@@ -13,3 +13,6 @@ activities.
 ### The Design Requirements contains:
 - Business Goals
 - Technical Goals
+
+## 🛠 Skills
+- Teamwork, Communication, Troubleshooting, Project Management
